@@ -1,6 +1,8 @@
 # 💫 About Me:
 ✔Soy desarrolladora Front End.<br>✔Egresada de Laboratoria, en constante aprendizaje.<br>✔Experiencia en metologías ágiles.<br>✔Aprendo todos los días con la determinación de ser mejor.<br>✔Adaptabilidad, iniciativa, aprender en la incertidumbre.
 
+https://www.credential.net/aa511392-350a-4e4e-be57-cef62ca6955c
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/karenmorales_14221) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/karen-morales-0b8686282/) 
