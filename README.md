@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✌ About Me:
 ✔Soy desarrolladora Front End.<br>✔Egresada de Laboratoria, en constante aprendizaje. [¡Mira mi certificado aquí!](https://www.credential.net/aa511392-350a-4e4e-be57-cef62ca6955c)<br>✔Experiencia en metologías ágiles.<br>✔Aprendo todos los días con la determinación de ser mejor.<br>✔Adaptabilidad, iniciativa, aprender en la incertidumbre.
 
 
